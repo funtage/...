@@ -12,5 +12,5 @@ THIS TEXT IS A TAD BIGGER
 
 THIS TEXT IS A TAD SMALLER
 
-                                                         THIS IS A GHOST. OR IS IT?.
+                                                         
 
