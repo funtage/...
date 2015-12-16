@@ -1,5 +1,5 @@
 ---
-title: Decorating lesson.
+title: Decorating lesson.11.12.15
 layout: post
 author: jeremiah.puren
 permalink: /decorating-lesson./
