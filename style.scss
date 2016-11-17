@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: #0000b3;
+	background: url(http://uploadtemple.com/images/2014/04/28/HD-backgrounds-1.jpg);
   font: 18px/1.4 "Times New Roman";
   color: #ff751a;
 }
@@ -287,11 +287,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
-body {
-	background-image: url(http://uploadtemple.com/images/2014/04/28/HD-backgrounds-1.jpg)
-	background-repeat: no-repeat;
-	background-position: center;
-	background-attatchment: fixed;	
-}
-
