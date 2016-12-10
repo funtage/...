@@ -1,5 +1,5 @@
 ---
-title: Untitled document
+title: Improving my blog... Yet again.
 layout: post
 author: jeremiah.puren
 permalink: /untitled-document/
