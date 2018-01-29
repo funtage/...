@@ -22,6 +22,43 @@ body {
   color: #990000;
 }
 
+
+
+
+body {
+    background-image: url("https://cdn.wallpapersafari.com/43/62/T6D1eZ.jpg");
+    background-repeat: no-repeat;
+    background-position: middle;
+    background-attachment: fixed;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: #000000;
+    width: 100%;
+}
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #d3dbbe;
+    color: #ffffff;
+    
+}
+
+table, th, td {
+   border: 1px solid red;
+}
+
+th {
+    background-color: #ff1a1a;
+    color: #990000;
+}
+
+   
 .container {
   margin: 0 auto;
   max-width: 740px;
@@ -289,40 +326,4 @@ footer {
 @import "highlights";
 @import "svg-icons";
 
-
-
-body {
-    background-image: url("<img src="https://cdn.wallpapersafari.com/43/62/T6D1eZ.jpg" alt="Image result for windows background hill"/>")
-    background-repeat: no-repeat;
-    background-position: middle;
-    background-attachment: fixed;
-}
-
-table {
-    border-collapse: collapse;
-    background-color: #000000;
-    width: 100%;
-}
-
-th, td {
-    padding: 10px;
-    text-align: left;
-}
-
-th {
-    background-color: #d3dbbe;
-    color: #ffffff;
-    
-}
-
-table, th, td {
-   border: 1px solid red;
-}
-
-th {
-    background-color: #ff1a1a;
-    color: #990000;
-}
-
-   
 
